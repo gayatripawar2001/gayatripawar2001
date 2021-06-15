@@ -1,6 +1,5 @@
 
 <h3 align="left">Hey 👋, I'm Gayatri Pawar</h3>
-<p align="left"> <a href="https://twitter.com/gayatri87358989" target="blank"><img src="https://img.shields.io/twitter/follow/gayatri87358989?logo=twitter&style=for-the-badge" alt="gayatri87358989" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced-java programming**
 - 👯 I’m looking to collaborate on **frontend and backend projects**
@@ -11,6 +10,7 @@
 - ⚡ Fun fact **Always laugh on serious matters.**
 
 <h4 align="left">Connect with me:</h4>
+<p align="left"> <a href="https://twitter.com/gayatri87358989" target="blank"><img src="https://img.shields.io/twitter/follow/gayatri87358989?logo=twitter&style=for-the-badge" alt="gayatri87358989" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/gayatri87358989" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayatri87358989" height="30" width="40" /></a>
 <a href="https://instagram.com/gayatris_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="gayatris_art" height="30" width="40" /></a>
