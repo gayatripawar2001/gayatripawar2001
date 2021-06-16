@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Advanced-java programming**
 - 👯 I’m looking to collaborate on **frontend and backend projects**
 - 🤝 I’m looking for help with **database projects**
-- 👨‍💻 All of my projects are available at [gitHub](gitHub)
+- 👧 All of my projects are available at [gitHub](gitHub)
 - 💬 Ask me about **any web and java related things**
 - 📫 How to reach me **gayatripawar401@gmail.com**
 - ⚡ Fun fact **Always laugh on serious matters.**
