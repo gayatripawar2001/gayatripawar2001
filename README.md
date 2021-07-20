@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **frontend and backend projects**
 - 🤝 I’m looking for help with **database projects**
 - 👧 All of my projects are available at [gitHub](gitHub)
-- 💬 Ask me about **any web and java related things**
+- 💬 Ask me about **any web and java related stuffs**
 - 📫 How to reach me **gayatripawar401@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
