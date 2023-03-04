@@ -1,9 +1,9 @@
 
 <h3 align="left"><b>Hey 👋, I'm Gayatri Pawar</b></h3>
-<h2 align="left">Welcome to My Github page!!</h3>
+<h2 align="left">Welcome to My Github page!!</h2>
 
 - 🌱 I’m currently *Working as a Associate cloud engineer at minfy*
-- #   Everything is on AWS
+- 🌱 Everything is on AWS
 - 👧 All of my projects are available at [gitHub](gitHub)
 - 📫 How to reach me **gayatripawar401@gmail.com**
 
