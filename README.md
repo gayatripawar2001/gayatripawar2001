@@ -1,11 +1,9 @@
 
-<h3 align="left">Hey 👋, I'm Gayatri Pawar</h3>
+<h3 align="left"><b>Hey 👋, I'm Gayatri Pawar</b></h3>
+<h2 align="left">Welcome to My Github page!!</h3>
 
-- 🌱 I’m currently learning **Advanced-java programming**
-- 👯 I’m looking to collaborate on **frontend and backend projects**
-- 🤝 I’m looking for help with **database projects**
+- 🌱 I’m currently *Working as a Associate loud engineer at minfy*
 - 👧 All of my projects are available at [gitHub](gitHub)
-- 💬 Ask me about **any web and java related stuffs**
 - 📫 How to reach me **gayatripawar401@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
