@@ -8,7 +8,6 @@
 - 📫 How to reach me **gayatripawar401@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
-<p align="left"> <a href="https://twitter.com/gayatri87358989" target="blank"><img src="https://img.shields.io/twitter/follow/gayatri87358989?logo=twitter&style=for-the-badge" alt="gayatri87358989" /></a> </p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/gayatri-pawar-568761214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/gayatri-pawar-568761214" height="30" width="30" /></a>
 <a href="https://twitter.com/gayatri87358989" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayatri87358989" height="30" width="30" /></a>
