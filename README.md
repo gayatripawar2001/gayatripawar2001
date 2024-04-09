@@ -2,7 +2,7 @@
 <h3 align="center"><b>Hey 👋, I'm Gayatri Pawar</b></h3>
 <h2 align="left">Welcome to My Github page!!</h2>
 
-- 📫 How to reach me **gayatripawar401@gmail.com**
+- 📫 You can Reach me on **gayatripawar401@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
