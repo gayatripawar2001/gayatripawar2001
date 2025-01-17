@@ -10,6 +10,5 @@
 <a href="https://twitter.com/gayatri87358989" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayatri87358989" height="30" width="30" /></a>
 <a href="https://instagram.com/gayatris_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="gayatris_art" height="30" width="30" /></a>
 <a href="https://medium.com/@gayatripawar401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  alt="@gayatripawar401" height="30" width="30" /></a>
-<a href="https://www.quora.com/profile/Gayatri-Pawar-155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg"  alt="Gayatri-Pawar-155" height="30" width="30" /></a>
 </p>
 
